@@ -1,6 +1,6 @@
 # Juego de Cartas Unstable Unicorns
 
-![](https://github.com/JCodEr2806/Juego-con-React/blob/master/frontend/src/assets/examples/example_1.png?raw=true)
+![](https://sevenfiguarts.com.pe/wp-content/uploads/2023/05/Unstable-Unicorns-Juegos-de-mesa-PERU-3.webp)
 
 Este proyecto de **juego de cartas online** esta inspirado en el juego *Unstable Unicorns*, desarrollado con **React y TypeScript** en el frontend y **Node.js + Express + Socket.IO** en el backend.
 El objetivo del proyecto es practicar desarrollo **full-stack**, comunicación en tiempo real y organización de un backend en TypeScript.
@@ -10,8 +10,9 @@ Este proyecto se encuentra **en desarrollo** y no representa una versión final 
 
 El sistema permite a los jugadores interactuar en partidas de cartas mediante un sistema de turnos.
 La comunicación entre los jugadores y el servidor se realiza en tiempo real usando **Socket.IO**, mientras que la lógica del juego se gestiona desde el backend.
+![](https://github.com/JCodEr2806/Juego-con-React/blob/master/frontend/src/assets/examples/example_1.png?raw=true)
 
-## 🛠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Frontend
 - React
