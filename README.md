@@ -1,6 +1,6 @@
 # Juego de Cartas Unstable Unicorns
 
-![](https://sevenfiguarts.com.pe/wp-content/uploads/2023/05/Unstable-Unicorns-Juegos-de-mesa-PERU-3.webp)
+![](https://songeniales.com/35577-large_default/unstable-unicorns-para-ninos.jpg)
 
 Este proyecto de **juego de cartas online** esta inspirado en el juego *Unstable Unicorns*, desarrollado con **React y TypeScript** en el frontend y **Node.js + Express + Socket.IO** en el backend.
 El objetivo del proyecto es practicar desarrollo **full-stack**, comunicación en tiempo real y organización de un backend en TypeScript.
