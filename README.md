@@ -1,5 +1,7 @@
 # Juego de Cartas Unstable Unicorns
 
+![](https://github.com/JCodEr2806/Juego-con-React/blob/master/frontend/src/assets/examples/example_1.png?raw=true)
+
 Este proyecto de **juego de cartas online** esta inspirado en el juego *Unstable Unicorns*, desarrollado con **React y TypeScript** en el frontend y **Node.js + Express + Socket.IO** en el backend.
 El objetivo del proyecto es practicar desarrollo **full-stack**, comunicación en tiempo real y organización de un backend en TypeScript.
 Este proyecto se encuentra **en desarrollo** y no representa una versión final del juego.
