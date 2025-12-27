@@ -8,7 +8,7 @@ const Sala = () => {
   const [partidaIniciada, setPartidaIniciada] = useState(false);
   const [jugadoresOrden, setJugadoresOrden] = useState<Jugador[]>([]);
 
-  const { socket } = useGame(); //Se pone en {} el socket para que se reconozca como un objeto
+  const { socket } = useGame(); 
 
   return (
     <div>

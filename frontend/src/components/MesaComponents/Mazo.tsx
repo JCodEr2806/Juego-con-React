@@ -35,7 +35,6 @@ export function Mazo({ mazo, mazoVisible }: Props) {
             backgroundPosition: "center",
           }}
         >
-          {/* Podrías poner texto opcional */}
           {/* <span className="text-sm text-black">Mazo vacío</span> */}
         </div>
       )}
