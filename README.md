@@ -11,6 +11,7 @@ Este proyecto se encuentra **en desarrollo** y no representa una versión final 
 El sistema permite a los jugadores interactuar en partidas de cartas mediante un sistema de turnos.
 La comunicación entre los jugadores y el servidor se realiza en tiempo real usando **Socket.IO**, mientras que la lógica del juego se gestiona desde el backend.
 ![](https://github.com/JCodEr2806/Juego-con-React/blob/master/frontend/src/assets/examples/example_1.png?raw=true)
+![](https://github.com/JCodEr2806/Juego-con-React/blob/master/frontend/src/assets/examples/example_2.png?raw=true)
 
 ## Tecnologías Utilizadas
 
